@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/IF3rQO50)
 # Quicksort Pivots
 
-in the lectures I only briefly mentioned strategies for determining a good pivot
+In the lectures I only briefly mentioned strategies for determining a good pivot
 for quicksort. The implementation on the slides simply picks the leftmost
 element in the part of the array that we consider as a pivot. I also mentioned a
 few other ways of picking a good pivot, e.g. randomly.
